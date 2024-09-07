@@ -1,0 +1,21 @@
+#divMensagemResultado {
+    min-height: 60px;
+}
+
+#mensagemResultado {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.btn {
+    width: 9em;
+}
+
+.titulo {
+    transition: text-decoration 0.3s;
+}
+
+.list-group-item-secondary .titulo {
+    text-decoration: line-through;
+    color: #6c757d;
+}
